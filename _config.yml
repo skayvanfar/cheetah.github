@@ -1,1 +1,10 @@
+url: https:/cheetah.github.io
+baseurl:
 
+# Site settings
+title: Cheetah Download Manager
+title-fa: دانلود منیجر چیتا
+logo: logo.png
+email: persepolis@beeit.ir
+description: "Cheetah Download Manager is a open source download manager which is written in java programming language."
+description-fa: "چیتا، یک دانلود منیجر متن باز است که با زبان برنامه نویسی جاوا نوشته شده است."
