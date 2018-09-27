@@ -20,3 +20,8 @@ team:
   social:
   - title: github
     url: https://github.com/skayvanfar
+
+# Social networks
+social:
+- title: github
+  url: https://github.com/skayvanfar/cheetah
