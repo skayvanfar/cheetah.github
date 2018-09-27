@@ -8,3 +8,15 @@ logo: logo.png
 email: persepolis@beeit.ir
 description: "Cheetah Download Manager is a open source download manager which is written in java programming language."
 description-fa: "چیتا، یک دانلود منیجر متن باز است که با زبان برنامه نویسی جاوا نوشته شده است."
+
+# Team names, titles and social links
+team:
+- name: Saeed Kayvanfar
+  name-fa: سعید کیوان فر
+  pic: https://avatars0.githubusercontent.com/u/6297600
+  position-fa: برنامه‌نویس
+  position: Programmer
+  description: I am a Senior Software Engineer.l love programming.l love open source and Linux and of course Java.
+  social:
+  - title: github
+    url: https://github.com/skayvanfar
