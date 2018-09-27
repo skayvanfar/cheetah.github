@@ -1,0 +1,24 @@
+<section id="screenshot" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            {% include section-heading.html heading="Screenshots" subheading="some screenshots"%}
+            <div class="col-md-12">
+                <div id="slider">
+                    <img src="{{ site.baseurl }}/assets/images/screenshot/01.png" />
+                    <img src="{{ site.baseurl }}/assets/images/screenshot/02.png" />
+                    <img src="{{ site.baseurl }}/assets/images/screenshot/03.png" />
+                    <img src="{{ site.baseurl }}/assets/images/screenshot/04.png" />
+                    <img src="{{ site.baseurl }}/assets/images/screenshot/05.png" />
+                </div>
+                <script src="{{ "/assets/js/ideal-image-slider.js" | prepend: site.baseurl }}"></script>
+                <script>
+                    var slider = new IdealImageSlider.Slider({
+                        selector: '#slider',
+                        height: 520,
+                        interval: 2000
+                    });
+                    slider.start();
+                </script></div>
+        </div>
+    </div>
+</section>
