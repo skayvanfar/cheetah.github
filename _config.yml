@@ -20,6 +20,16 @@ team:
   social:
   - title: github
     url: https://github.com/skayvanfar
+- name: Fariba Firooz
+  name-fa: فریبا فیروز
+  pic: https://avatars.githubusercontent.com/u/132133400
+  position-fa: برنامه‌نویس و طراح
+  position: Programmer and designer
+  description: I am a Java devloper.enthusiastic to learn new skills
+  social:
+  - title: github
+    url: https://github.com/fafirooz
+
 
 # Social networks
 social:
